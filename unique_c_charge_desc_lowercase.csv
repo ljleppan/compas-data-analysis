@@ -1,38 +1,38 @@
-battery,1679
+battery,1679,v
 arrest case no charge,1107
 grand theft in the 3rd degree,621
 possession of cocaine,595
 driving while license revoked,237
 driving under the influence,192
-felony battery (dom strang),160
+felony battery (dom strang),160,v
 felony driving while lic suspd,157
-aggravated assault w/dead weap,140
+aggravated assault w/dead weap,140,v
 grand theft (motor vehicle),132
 pos cannabis w/intent sel/del,125
 burglary unoccupied dwelling,118
 burglary conveyance unoccup,108
 possession of cannabis,103
 dui property damage/injury,101
-aggrav battery w/deadly weapon,90
+aggrav battery w/deadly weapon,90,v
 felony petit theft,88
 possess cannabis/20 grams or less,88
 uttering a forged instrument,81
 dui level 0.15 or minor in veh,79
 "poss3,4 methylenedioxymethcath",76
-aggravated battery / pregnant,71
-battery on law enforc officer,70
-resist officer w/violence,70
+aggravated battery / pregnant,71,v
+battery on law enforc officer,70,v
+resist officer w/violence,70,v
 poss pyrrolidinovalerophenone,67
 possession of alprazolam,66
 tampering with physical evidence,65
-felony battery w/prior convict,60
-viol injunct domestic violence,56
-agg battery grt/bod/harm,53
+felony battery w/prior convict,60,v
+viol injunct domestic violence,56,v
+agg battery grt/bod/harm,53,v
 susp drivers lic 1st offense,51
 resist/obstruct w/o violence,48
 burglary structure unoccup,48
 carrying concealed firearm,44
-assault,44
+assault,44,v
 possession burglary tools,42
 burglary dwelling occupied,41
 possession of methamphetamine,39
@@ -44,12 +44,12 @@ false imprisonment,35
 tamper with witness/victim/ci,33
 petit theft,33
 neglect child / no bodily harm,32
-aggravated assault w/firearm,32
+aggravated assault w/firearm,32,v
 possession of heroin,32
 deliver cocaine,32
 possession of oxycodone,31
-battery on a person over 65,31
-viol prot injunc repeat viol,29
+battery on a person over 65,31,v
+viol prot injunc repeat viol,29,v
 robbery / no weapon,27
 dui - enhanced,26
 poss contr subst w/o prescript,26
@@ -58,19 +58,19 @@ fleeing or attmp eluding a leo,24
 crimin mischief damage $1000+,23
 false ownership info/pawn item,22
 deliver cannabis,22
-aggravated battery,22
+aggravated battery,22,v
 lve/scen/acc/veh/prop/damage,22
-child abuse,21
+child abuse,21,v
 criminal mischief,19
-burglary dwelling assault/batt,18
+burglary dwelling assault/batt,18,v
 criminal mischief damage <$200,17
 dealing in stolen property,17
 leaving the scene of accident,16
 robbery sudd snatch no weapon,16
-felony battery,16
+felony battery,16,v
 "deliver 3,4 methylenediox",15
 disorderly intoxication,14
-felony batt(great bodily harm),14
+felony batt(great bodily harm),14,v
 viol pretrial release dom viol,13
 exposes culpable negligence,13
 corrupt public servant,13
@@ -88,7 +88,7 @@ felony dui (level 3),11
 att burgl unoccupied dwel,11
 felony/driving under influence,11
 "poss 3,4 mdma (ecstasy)",10
-aggravated assault,10
+aggravated assault,10,v
 aggrav stalking after injunctn,10
 fraudulent use of credit card,10
 retail theft $300 1st offense,10
@@ -98,12 +98,12 @@ fleeing or eluding a leo,9
 unauth poss id card or dl,9
 drivg while lic suspd/revk/can,9
 manufacture cannabis,9
-agg assault w/int com fel dome,9
+agg assault w/int com fel dome,9,v
 burglary dwelling armed,8
-burglary with assault/battery,8
+burglary with assault/battery,8,v
 poss wep conv felon,8
 possess drug paraphernalia,8
-agg fleeing and eluding,8
+agg fleeing and eluding,8,v
 purchase cannabis,8
 unlaw lictag/sticker attach,8
 viol injunction protect dom vi,8
@@ -123,7 +123,7 @@ fail register vehicle,6
 fail to obey police officer,6
 poss of cocaine w/i/d/s 1000ft park,6
 lewd or lascivious molestation,6
-burglary conveyance assault/bat,6
+burglary conveyance assault/bat,6,v
 grand theft of the 2nd degree,6
 opert with susp dl 2nd offens,6
 fail to redeliv hire/leas prop,5
@@ -134,14 +134,14 @@ poss similitude of drivers lic,5
 expired dl more than 6 months,5
 dui- enhanced,5
 fel drive license perm revoke,5
-aggrav child abuse-causes harm,5
-robbery / weapon,5
+aggrav child abuse-causes harm,5,v
+robbery / weapon,5,v
 poss tetrahydrocannabinols,5
 trespassing/construction site,5
 live on earnings of prostitute,5
 sell or offer for sale counterfeit goods,5
-obstruct officer w/violence,4
-lewd/lasc battery pers 12+/<16,4
+obstruct officer w/violence,4,v
+lewd/lasc battery pers 12+/<16,4,v
 poss unlaw issue id,4
 traff in cocaine <400g>150 kil,4
 stalking,4
@@ -150,21 +150,21 @@ poss f/arm delinq,4
 del cannabis for consideration,4
 depriv leo of protect/communic,4
 poss meth/diox/meth/amp (mdma),4
-neglect child / bodily harm,4
+neglect child / bodily harm,4,v
 false motor veh insurance card,4
 attempted burg/convey/unocc,4
 att tamper w/physical evidence,4
-kidnapping / domestic violence,4
-aggrav child abuse-agg battery,4
+kidnapping / domestic violence,4,v
+aggrav child abuse-agg battery,4,v
 threat public servant,4
 throw deadly missile into veh,3
-robbery w/firearm,3
+robbery w/firearm,3,v
 solicitation on felony 3 deg,3
 attempted robbery  no weapon,3
 burglary conveyance occupied,3
 solicit deliver cocaine,3
 possession of codeine,3
-burglary structure assault/batt,3
+burglary structure assault/batt,3,v
 refuse submit blood/breath test,3
 sexual performance by a child,3
 tresspass struct/conveyance,3
@@ -176,12 +176,12 @@ possession child pornography,3
 throw missile into pub/priv dw,3
 forging bank bills/promis note,3
 grand theft in the 1st degree,3
-d.u.i. serious bodily injury,3
+d.u.i. serious bodily injury,3,v
 poss of methylethcathinone,3
 possession of lsd,3
-aggravated battery on 65/older,3
-burgl dwel/struct/convey armed,3
-agg fleeing/eluding high speed,3
+aggravated battery on 65/older,3,v
+burgl dwel/struct/convey armed,3,v
+agg fleeing/eluding high speed,3,v
 carrying a concealed weapon,2
 traffick amphetamine 28g><200g,2
 conspiracy dealing stolen prop,2
@@ -190,8 +190,8 @@ dui/property damage/persnl inj,2
 strong armed  robbery,2
 use computer for child exploit,2
 shoot into vehicle,2
-sex battery deft 18+/vict 11-,2
-sexual battery / vict 12 yrs +,2
+sex battery deft 18+/vict 11-,2,v
+sexual battery / vict 12 yrs +,2,v
 possession of methadone,2
 unlaw pos of prson id of another,2
 poss pyrrolidinovalerophenone w/i/d/s,2
@@ -209,7 +209,7 @@ tamper with witness,2
 offn against intellectual prop,2
 unlicensed telemarketing,2
 att burgl conv occp,2
-armed kidnapping,2
+armed kidnapping,2,v
 delivery of drug paraphernalia,2
 solic to commit battery,2
 possess w/i/utter forged bills,2
@@ -234,21 +234,21 @@ poss alprazolam w/int sell/del,2
 trespass struct/conveyance,2
 soliciting for prostitution,2
 carjacking with a firearm,2
-murder 2nd degree w/deadly wep,2
+murder 2nd degree w/deadly wep,2,v
 petit theft habitual offender,2
 deliver cocaine 1000ft school,2
-aggravated battery (firearm),2
+aggravated battery (firearm),2,v
 possession of alcohol under 21,2
 poss of ethylone w/i/d/s,2
 offer agree secure/lewd act,2
 organized fraud,2
 poss of rx without rx,2
 possession of fentanyl,2
-burglary assault/battery armed,2
+burglary assault/battery armed,2,v
 "possession of 3,4methylenediox",2
 crim attempt/solicit/consp,2
 tresspass in structure or conveyance,2
-aggravated assault w/o firearm,2
+aggravated assault w/o firearm,2,v
 "del 3,4 methylenedioxymethcath",2
 tampering with a victim,2
 possession of diazepam,2
@@ -267,11 +267,11 @@ obscenity,1
 att robbery sudd snatch no weap,1
 attempted deliv control subst,1
 unauth c/p/s sounds>1000/audio,1
-"aggr child abuse-torture,punish",1
+"aggr child abuse-torture,punish",1,v
 aggress/panhandle/beg/solict,1
 poss firearm w/altered id#,1
 lewd/lasciv molest elder persn,1
-aggravated manslaughter child,1
+aggravated manslaughter child,1,v
 abuse without great harm,1
 driving while intoxicated,1
 attempt sexual batt / vict 12+,1
@@ -287,7 +287,7 @@ resisting w/o violence,1
 poss drugs w/o a prescription,1
 crim/transmit of hiv virus,1
 intoxicated/safety of another,1
-battery on parking enfor speci,1
+battery on parking enfor speci,1,v
 ride tri-rail without paying,1
 att burgl struc/conv dwel/occp,1
 possession of clonazepam,1
@@ -307,7 +307,7 @@ trans/harm/material to a minor,1
 "poss 3,4 methylendioxpyrovlerone",1
 attempted burg/struct/unocc,1
 traffic counterfeit cred cards,1
-domestic battery by stran,1
+domestic battery by stran,1,v
 counterfeit lic plates/sticker,1
 retail theft $300 2nd offense,1
 leaving scene accident w/death,1
@@ -322,14 +322,14 @@ fail surrender tag/reg/dl,1
 attempt murder in the first degree,1
 failure to pay taxi cab charge,1
 pos gamma-hydroxybutyric acid,1
-agg abuse elderlly/disabled adult,1
+agg abuse elderlly/disabled adult,1,v
 obstruct officer by disguise,1
 littering,1
 delivery of trenbolon acetat,1
 video voyeur-<24y on child >16,1
 impersonating police officer,1
 consp traff oxycodone 28g><30k,1
-batt/on a specified employee,1
+batt/on a specified employee,1,v
 crlty twrd child urge oth act,1
 unlaw lic use/disply of others,1
 contradict statement,1
@@ -341,7 +341,7 @@ disrupting school function,1
 unauthorized interf w/railroad,1
 neglect/abuse elderly person,1
 possess cannabis 1000ftsch,1
-aggravated battery (firearm/actual possession),1
+aggravated battery (firearm/actual possession),1,v
 prostitution,1
 procure for prostitution,1
 discharge firearm in public/res,1
@@ -354,14 +354,14 @@ deliver cocaine 1000ft park,1
 deliver cannabis 1000ftchur,1
 traffick oxycodone     4g><14g,1
 possession of paraphernalia,1
-agg battery cause bodily,1
+agg battery cause bodily,1,v
 att burgl occp dwelling,1
 grand theft unlawful use cc,1
 lewd or lascivious exhibition,1
 crim attempt/solic/consp,1
 delivery of 5-fluoro pb-22,1
 violation of boater safety id,1
-robbery w/deadly weapon,1
+robbery w/deadly weapon,1,v
 "s/m/d/p/w/i sch 1a,1b,1d,2a,2b",1
 trespass/property/other structure,1
 possession of anabolic steroid,1
@@ -369,13 +369,13 @@ deliver alprazolam,1
 false name by person arrest,1
 carjacking w/o deadly weapon,1
 imperson public officer or emplyee,1
-burglary structure armed,1
+burglary structure armed,1,v
 leave accd/attend veh/less $50,1
 possess countrfeit credit card,1
 deliver cocaine 1000ft store,1
-aggravated animal cruelty,1
+aggravated animal cruelty,1,v
 throw in occupied dwell,1
-battery on fire fighter,1
+battery on fire fighter,1,v
 misuse of 911 or e911 system,1
 unl/disturb education/instui,1
 attempted aggravated battery,1
@@ -390,7 +390,7 @@ false info leo during invest,1
 dwi w/inj susp lic / habit off,1
 possess/use weapon 1 deg felon,1
 possession of oxymorphone,1
-assault law enforcement officer,1
+assault law enforcement officer,1,v
 poss pyrrolidinobutiophenone,1
 giving false crime report,1
 hiring with intent to defraud,1
@@ -404,12 +404,12 @@ deliver cocaine 1000ft church,1
 harass witness/victm/informnt,1
 criminal attempt 3rd deg felon,1
 structuring transactions,1
-manslaughter w/weapon/firearm,1
+manslaughter w/weapon/firearm,1,v
 possession of buprenorphine,1
 solicit purchase cocaine,1
 bribery athletic contests,1
 arson ii (vehicle),1
-battery spouse or girlfriend,1
+battery spouse or girlfriend,1,v
 poss/sell/del/man amobarbital,1
 offer agree secure for lewd act,1
 possession of phentermine,1
@@ -422,7 +422,7 @@ sel/pur/mfr/del control substa,1
 deliver cannabis 1000ftsch,1
 possession of butylone,1
 consp to traffic methamphetamine,1
-sex batt faml/cust vict 12-17y,1
+sex batt faml/cust vict 12-17y,1,v
 grand theft of a fire extinquisher,1
 principal in the first degree,1
 unlawful conveyance of fuel,1
@@ -435,5 +435,5 @@ possess altered bills,1
 threaten throw destruct device,1
 consp traff oxycodone  4g><14g,1
 lease for purpose trafficking,1
-battery emergency care provide,1
+battery emergency care provide,1,v
 traveling to meet a minor,1
